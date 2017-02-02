@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinerLayout Choose your Color</string>
+
+    <string name="hello_world">Your Color Is  </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_color_display">ColorDisplay</string>
+</resources>
